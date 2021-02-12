@@ -12,23 +12,23 @@ STC_RL/
 　├ module/
 　│　├ gym2/ (original environment)
 　│　├ keras2/ (original activation function)
-　│　├ rl2/ (not used)
-　│　│　├ selfcore.py (original algorithm)
-　│　│　└ agents/
-　│　│　 　└ selfddpg.py (not for use)
-　├ notebooks/
-　│　├ linear/
-　│　│　├ practical.ipynb (practical implementation)
-　│　│　├ ideal.ipynb (naive implementation)
-　│　│　├ TD_learning.ipynb
-　│　│　├ saved_agent/ (initial policy or proposed policy)
-　│　│　│　├ *_actor.h5 (weight_of_actor)
-　│　│　│　└ *_critic.h5 (weight_of_critic)
-　│　└ pendulum/
-　│　│　├ practical.ipynb (practical implementation)
-　│　│　├ ideal.ipynb (naive implementation)
-　│　│　├ TD_learning.ipynb
-　│　│　├ saved_agent/ (initial policy or proposed policy)
+　│　└ rl2/ (not used)
+　│　 　├ selfcore.py (original algorithm)
+　│　 　└ agents/
+　│　 　 　└ selfddpg.py (not for use)
+　└ notebooks/
+　 　├ linear/
+　 　│　├ practical.ipynb (practical implementation)
+　 　│　├ ideal.ipynb (naive implementation)
+　 　│　├ TD_learning.ipynb
+　 　│　└ saved_agent/ (initial policy or proposed policy)
+　 　│　 　├ *_actor.h5 (weight_of_actor)
+　　 │　 　└ *_critic.h5 (weight_of_critic)
+　 　└ pendulum/
+　　  　├ practical.ipynb (practical implementation)
+　 　 　├ ideal.ipynb (naive implementation)
+　　  　├ TD_learning.ipynb
+　 　 　└ saved_agent/ (initial policy or proposed policy)
 　 　 　 　├ *_actor.h5 (weight_of_actor)
 　 　 　 　└ *_critic.h5 (weight_of_critic)
 ```
