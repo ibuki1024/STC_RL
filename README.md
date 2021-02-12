@@ -20,13 +20,15 @@ STC_RL/
 　│　├ linear/
 　│　│　├ practical.ipynb (practical implementation)
 　│　│　├ ideal.ipynb (naive implementation)
+　│　│　├ TD_learning.ipynb
 　│　│　├ saved_agent/ (initial policy or proposed policy)
 　│　│　│　├ *_actor.h5 (weight_of_actor)
 　│　│　│　└ *_critic.h5 (weight_of_critic)
 　│　└ pendulum/
 　│　│　├ practical.ipynb (practical implementation)
 　│　│　├ ideal.ipynb (naive implementation)
+　│　│　├ TD_learning.ipynb
 　│　│　├ saved_agent/ (initial policy or proposed policy)
-　│　│　│　├ *_actor.h5 (weight_of_actor)
-　│　│　│　└ *_critic.h5 (weight_of_critic)
+　 　 　 　├ *_actor.h5 (weight_of_actor)
+　 　 　 　└ *_critic.h5 (weight_of_critic)
 ```
