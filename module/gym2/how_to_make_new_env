@@ -1,0 +1,2 @@
+envs/__init__.py
+に書かれてる'id'の中身にあるpathをgym ~ をgym2 ~ に変える
